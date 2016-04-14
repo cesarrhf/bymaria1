@@ -1,0 +1,794 @@
+
+.container-fluid {
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row-height {
+  display: table;
+  table-layout: fixed;
+  height: 100%;
+  width: 100%;
+}
+.col-height {
+  display: table-cell;
+  float: none;
+  height: 100%;
+}
+a
+{
+text-decoration:none;
+}
+
+a.nounderline: link {
+text-decoration: none;
+}
+@media (max-width:400px){
+
+  .nav > li > a {
+    text-align: center;
+  margin-right: 12px;
+  padding-left: 0px;
+  padding-right: 0px;
+  /*font-size: 0.7em;*/
+}
+}
+
+@media (min-width:320px){
+  .divInfo{
+    margin-top: 10px;
+  }
+  .miFormContac{
+    margin-top: 10px;
+  }
+  .titulos{
+    /*font-size: 0.8em;*/
+  }
+  /* todo el ancho del div, img carrusel*/
+  .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+  }
+  .panelContacto{
+    margin-top: 10px;
+  }
+  .navbar {    /* min-height: 50px; */
+    margin-bottom: 0px;
+  }
+  .logo{
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+  .form-group2{
+    margin-bottom: 3px;
+  }
+  .descripcionProducto{
+        height: none;
+  }
+  .listaProductos p {
+    text-align: center;
+        /* margin: 0 0 10px; */
+  }
+}
+@media (min-width:400px){
+  .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+      width: 100%;
+      height: 300px;
+      object-fit: cover;
+  }
+}
+@media (min-width:990px){
+  .form-group2{
+    margin-bottom: 0px;
+  }
+  .listaProductos p {
+      text-align: left;
+  }
+  .descripcionProducto{
+        height: 110px;
+  }
+
+}
+@media (max-width: 768px){
+  .resumenCompra {
+    /*margin-bottom: 15px;*/
+    padding-left: 0px;
+    padding-right: 0px;
+}
+  #map-container_pro { height: 200px;width:100%; }
+  #map-container { height: 200px;width: 100% }
+}
+
+@media (min-width: 768px) {
+  .divInfo{
+    margin-top: 0px;
+  }
+  .miFormContac{
+    margin-top: 0px;
+  }
+  .titulos{
+   font-size:1.2em;
+   margin-bottom: 15px;
+  }
+  /* todo el ancho del div, img carrusel*/
+  .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+      width: 100%;
+      height: 450px;
+      object-fit: cover;
+  }
+  .panelContacto{
+    margin-top: 0px;
+  }
+  .navbar {    /* min-height: 50px; */
+    margin-bottom: 20px;
+  }
+  .logo{
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+  .form-group2{
+    margin-bottom: 3px;
+  }
+  #map-container_pro { height: 495px;width:100%; }
+  #map-container { height: 480px;width: 100% }
+
+  .panel-donde {
+    height: 410px;
+    overflow-y:auto;
+}
+  .panelContacto{
+    height: 480px;
+  }
+  .nav > li > a {
+     padding: 5px 15px;
+  }
+  /* subclase para las imagenes centrales */
+    .test{
+         width: 100%;
+          height: 220px;
+          margin: auto;
+          object-fit: cover;
+      }
+      .listaProductos{
+          /*height: 360px;*/
+      }
+  }
+
+  .test {
+      margin: auto;
+  }
+
+   /*borde de orilla contendor*/
+   .container{
+     /*margin-top: 5px;
+     margin-bottom: 4px;*/
+     /*border: 1px solid #DDDDDD;!important*/
+
+   }
+   /*menu*/
+   .navbar {
+      border: 0;
+  }
+   .navbar-default {
+      background-color: white;
+  }
+  /* lineas horizontales */
+  hr{
+    border-top: 1px solid #DDDDDD;!important
+    width: 100%;
+  }
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+   text-decoration: none;
+  background-color: white;
+  /*border-bottom: 2px solid red;*/
+}
+
+.btn:hover, .btn:focus, .btn.focus {
+    color: white;
+    text-decoration: none;
+    background-color: red;
+
+}
+
+/* todo el ancho del div, img carrusel*/
+.caruselLogo .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+    height: 245px;
+    object-fit: fill;
+}
+/* fuentes Mifuete y fuente_titulo se encuentran en bootstrap.css */
+/* se cambio nuevamente por las nuevas fuentes */
+   li{
+      /* text-transform: uppercase;*/
+   letter-spacing: 2px;
+      font-family: "acumin-pro-extra-condensed";
+  }
+
+
+  h1,h2,h3, h5{
+  letter-spacing: 2px;
+  font-family: "acumin-pro-extra-condensed";;
+  text-transform: uppercase;
+  color: #777;
+  }
+  .listaProductos2 p,.listaProductos p,label,option,.rellenoCompra p,.mensajes  {
+  font-family: "proxima-nova";
+  text-transform: uppercase;
+  color: #777;
+  }
+  .btn-primaryContac,.confirmar,h4,h6,#miParrafo small,.form-group label,.btn-primaryVenta,datalist,#resultado,.btn-primaryVenta2,.btn-primaryAdd,thead, th,tbody,tfoot, .precioss  p,.bootstrap-select, .table tbody p,input,textarea,span    {
+    letter-spacing: 2px;
+
+  font-family: "acumin-pro-extra-condensed";
+  text-transform: uppercase;
+   }
+   .footer p{
+     letter-spacing: 1.8px;
+
+     font-family: "futura-pt";
+     text-transform: uppercase;
+     font-size: 12px;
+   }
+
+  h1{
+     font-size: 10vw;
+  }
+  /*h4 >a {
+    color: black;
+  }*/
+
+  a.nounderline
+  {
+   color: black;
+  }
+
+  /* centered columns styles */
+.row-centered {
+
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+
+.entreLineas {
+    overflow: hidden;
+    text-align: center;
+    font-size: 0.7em;
+}
+.entreLineas:before,
+.entreLineas:after {
+    background-color: red;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 5%;
+}
+.entreLineas:before {
+    right: 0.2em;
+    margin-left: -50%;
+}
+.entreLineas:after {
+    left: 0.2em;
+    margin-right: -50%;
+}
+
+.entreLineas a {
+  color:red;
+}
+a:hover {text-decoration:underline;color:red;}
+
+
+.entreLineasTitu {
+    overflow:   hidden;
+    text-align: center;
+}
+.entreLineasTitu:before,
+.entreLineasTitu:after {
+    background-color: #777;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 60%;
+}
+.entreLineasTitu:before {
+    right: 0.5em;
+    margin-left: -50%;
+}
+.entreLineasTitu:after {
+    left: 0.5em;
+    margin-right: -50%;
+}
+
+
+.row2 [class*="col-"] {
+   vertical-align: top;
+}
+.btn-primaryContac {
+  border: 1px solid;
+  color: red;
+  background-color: white;
+  font-size: 1em;
+}
+
+
+
+
+.btn-primaryVenta,.btn-primaryVenta2 {
+    /*height: 35px;
+    width: 84px;*/
+    color: red;
+    background-color: rgb(255, 255, 255);
+    border-color: red;
+    font-size: 1em;
+}
+
+.btn-primaryAdd {
+    color: white;
+    background-color: red;
+    border-color: red;
+    font-size: 15px;
+}
+
+
+.form-group {
+    margin-bottom: 3px;
+}
+
+.input-sm {    font-size: 1.1em;}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #EA1212;
+}
+/*.form-inline .form-group{
+    margin-left: 0;
+    margin-right: 0;
+}*/
+
+
+
+
+
+.text a{
+    color: #777;
+    font-size:  1em;
+}
+
+.text a:hover {text-decoration:none;color:red;  background-color: white; }
+
+.line {
+  border-bottom: 1px solid #DDDDDD;
+  position: relative;
+  top: -.5em;
+}
+
+.logo{
+  width: 150px;
+
+}
+.sinPading{
+
+  padding-left: 0px;
+
+}
+.sinPadingRight{
+
+  padding-right: 0px;
+
+}
+small, .small {
+    font-size: 60%;
+}
+.listaProductos2{
+      margin-bottom: 20px;
+}
+.listaProductos2 h4{
+  font-size: 1em;
+}
+.descripcion p{
+  letter-spacing: 0.3px;
+  font-size: 0.8em;
+  color :#777;
+  text-transform: none;
+  line-height: 1;
+  text-align: center;
+}
+
+.listaProductos h4{
+  font-size: 1em;
+}
+.listaProductos p{
+  letter-spacing: 0.3px;
+  font-size: 0.8em;
+  color :#777;
+  text-transform: none;
+      /*line-height: 1;*/
+}
+.descripcion{
+    height: 50px;
+}
+.bottom-align {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+
+
+  .resumen p{
+    color: #777;
+    margin: 0 0 0px;
+  }
+tfoot p    {
+    color: white;
+   margin: 0 0 0px;
+   font-size: 1.1em;
+
+}
+.thcab    {
+   color: white;
+   font-size: 1.1em;
+       font-weight: normal;
+}
+#miParrafo h6{
+  color: white;
+  font-size: 1.1em;
+}
+#miParrafo small{
+   font-size: 0.8em;
+}
+.footer p{
+
+      text-align: center;
+}
+ .btnDelete {
+    color: #777;
+}
+td a
+{
+ text-decoration:none;
+ color: white;
+}
+.comprarPed a:hover {
+  color: red;
+  border: none;
+  text-decoration: none;
+
+}
+.comprarPed a:visited {
+  color: white;
+  border: none;
+  text-decoration: none;
+}
+.btnDelete:hover, .btnDelete:focus  {
+    color: red;
+    border: none;
+    text-decoration: none;
+}
+.btnDelete   {
+    color: red;
+    border: none;
+    text-decoration: none;
+}
+.form-group label {
+  font-size: 15px;
+}
+
+.bordeResumen{
+  padding-bottom: 20px;
+   border: 1px solid #888;
+
+}
+
+.miMargenDatos{
+  margin-right: 0px;
+   margin-left: 0px;
+}
+
+
+  .carousel-caption p{
+    font-size: 1em;
+  }
+
+.footer{
+  margin-top: 45px;
+margin-bottom: 45px;
+}
+.checkbox {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+tbody{
+    font-size: 1.1em;
+}
+.img-NO-responsive {
+    max-width: 70px;
+}
+.miMargenDatos p{
+  font-family: "acumin-pro-extra-condensed";
+  line-height: 1;
+}
+
+.miMargenDatos hr{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+#formDonde .form-group input, label {
+    margin-bottom: 0px;
+        margin-top: 0px;
+}
+.subtitulo p{
+  font-family: "acumin-pro-extra-condensed";
+  font-size: 0.7em;
+  padding-bottom: 15px;
+}
+.precioss  p{
+  color: #777;
+  font-size: 1em;
+}
+textarea::-webkit-input-placeholder { font-size: 0.8em; color: #555; }
+textarea::-moz-placeholder { font-size: 0.8em; color: #555; }
+textarea:-ms-textarea-placeholder { font-size: 0.8em; color: #555; }
+textarea:-moz-placeholder { font-size: 0.8em; color: #555; }
+
+input::-webkit-input-placeholder { font-size: 0.8em; color: #555; }
+input::-moz-placeholder { font-size: 0.8em; color: #555; }
+input:-ms-input-placeholder { font-size: 0.8em; color: #555; }
+input:-moz-placeholder { font-size: 0.8em; color: #555; }
+
+.bordeResumen p,.bordeResumen label{
+  font-family: "acumin-pro-extra-condensed";;
+  font-size: 1.1em;
+}
+.miMargenDatos p,.miMargenDatos h6 ,.miFormContac p, .miFormContac h6, .resumenCompra h6{
+  font-size: 1.1em;
+ }
+
+
+.datosBymaria p{
+    margin-bottom: 1px;
+}
+/*.caruselLogo .carousel-inner > .item > div, .carousel-inner > .item > a > div {
+    width: 100%;
+    height: 245px;
+ }*/
+ .imagenesLogos{
+
+  width: 100px;
+
+}
+
+.panel-heading{
+  background-color:white;
+}
+.panel-title{
+  font-size: 1.1em;
+  text-align: center;
+  color:#777;
+}
+.panel a:hover, a:link {
+text-decoration:none;
+}
+.rellenoCompra,.rellenoCompra2 {
+  margin-top: 5%;
+  font-size: 0.7em;
+}
+
+.selectpickerRegionComprar  {
+    width: 100%;
+}
+.affix {
+      top: 0px;
+  }
+  body {
+     position: relative;
+ }
+
+ .dropdown-menu,.bs-searchbox>.form-control { font-size: 1em;}
+
+ .mapaTienda{ height: 200px; margin-bottom: 4px;}
+ .no-activo{
+       color: white;
+   background-color: green;
+   pointer-events: none;
+   cursor: default;
+ }
+.datosCli p{
+   text-transform: uppercase;
+}
+.selecTienda{
+  margin-left: 5px;
+  /*margin-top: 10px;*/
+  table-layout: fixed;
+  width: 100%;
+}
+.nav.nav-center {
+    display: -webkit-inline-box;
+    display : -moz-box;
+    left: 0;
+    right: 0;
+    margin:0;
+    float:none;
+}
+
+.navbar-inner{
+    text-align:center;
+}
+  .fa-instagram, .fa-facebook{
+  color: grey;
+}
+.fa-instagram:hover,.fa-facebook:hover {color:red;}
+.panel-body label h6{
+  color:#777;
+}
+/* Hidding the radiobuttons & checkboxes */
+input[type="radio"] {
+   display: none;
+}
+/* Hidding the "check" status of inputs */
+input[type="radio"] + label .fa-circle  {
+display: none;
+}
+/* Styling the "check" status */
+input[type="radio"]:checked + label .fa-circle {
+display: block;
+color: #777;
+}
+
+/* Styling radiobuttons */
+input[type="radio"]:checked + label{}
+
+.actives{
+  border-radius: 0px;
+  background-color:#777;
+}
+.actives h4{
+  color:white;
+}
+.table-tienda {
+  border-left: 1px solid #777;
+  border-right: 1px solid #777;
+}
+.table-tienda > thead > tr > th,
+.table-tienda > tbody > tr > th,
+.table-tienda > tfoot > tr > th,
+.table-tienda > thead > tr > td,
+.table-tienda > tbody > tr > td,
+.table-tienda > tfoot > tr > td {
+  border-top: 1px solid #777;
+}
+.table-tienda > thead > tr > th {
+  font-weight: normal;
+  border-bottom: 1px solid #777;
+}
+/* para el bug que se produce en los navegadores.*/
+.fa-spinner .fa-pulse{
+  transform-origin: 49% 48.5%;
+}
+.contactoStrong {
+  margin-top: 10px;
+      text-align: center;
+}
+.contactoStrong  h6 strong{
+  color: red;
+}
+.contactoStrong  h6{
+  font-size: 0.6em;
+}
+.miFormContac .input-sm{
+  text-align: center;
+  border-radius: 0px;
+ border: 1px solid #777;
+}
+.miMensjeDonde,.miMensjeDonde2 {
+  margin-top: 10px;
+}
+.btn-default{
+  border: 1px solid #777;
+}
+
+.bootstrap-select button:hover span{
+  color:white;
+}
+.dropdown-menu {
+  margin: 0px 0 0;
+  border-radius: 0px
+}
+.dropdown-menu > li > a {
+  color:#777;
+  padding: 3px 7px;
+}
+  .btn-default{
+    color:#777;
+    font-size: 0.9em;
+  }
+  .dropdown-menu > .active > a,.dropdown-menu > .active > a:hover{
+    color:#777;
+  }
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+.panel-body h6{
+  font-size: 15px;
+}
+.BordeSelect{
+  border-top: 0px;
+}
+.btn{ margin-bottom: -1px}
+.mensajes{
+  margin-top: 10px;
+  font-size: 0.8em;
+}
+input::-webkit-input-placeholder,.input-sm::-webkit-input-placeholder  {
+    font-size: 1em;
+    color:#777;
+  }
+.bordeResumen h6{
+  font-size: 1.1em;
+}
+.btnIndex {
+  padding: 5px 6px 4px 8px;
+}
+.btnTienda {
+  height: 28px;
+  width: 98px;
+  padding: 1px 6px 4px 8px;
+}
+.btnDonde {
+  padding: 4px 6.3px 5px 8px;
+}
+.btnContacto {
+  padding: 4px 5px 5px 6px;
+}
+
+.panel-default {
+  border-color: #777;
+}
+.panel-heading:hover h4,.panel-heading:hover{
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    color:white;
+    background-color: #777;
+}
+.resumen > thead > tr > th {
+  border-bottom: 1px solid #777;
+}
+.resumen > tbody > tr > td, .resumen > tfoot > tr > td {
+    border-color: #777;
+}
+
+.inputCantidad {
+   width:35px;
+   text-align: center;
+
+}
+.form-group2 .btn-default{
+  font-size: 1.1em;
+}
+
+button, html input[type="button"], input[type="reset"], input[type="submit"],input {
+    -webkit-appearance: none;
+     border-radius: 0;
+
+}
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

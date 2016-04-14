@@ -1,0 +1,608 @@
+[21-Mar-2016 13:38:23 UTC] PHP Fatal error:  Class 'Html' not found in /home/cec/bymaria/storage/framework/views/2e2d21906dddbe7c856f584df2799e9d91f8b327.php on line 7
+[21-Mar-2016 13:43:36 UTC] PHP Fatal error:  Class 'Html' not found in /home/cec/bymaria/storage/framework/views/2e2d21906dddbe7c856f584df2799e9d91f8b327.php on line 7
+[21-Mar-2016 15:02:06 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/cec/bymaria/app/Http/Controllers/ComunasController.php on line 50
+[21-Mar-2016 15:16:31 UTC] PHP Fatal error:  Cannot use App\Models\Pedidos as Pedidos because the name is already in use in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 17
+[21-Mar-2016 19:59:51 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Response' not found in /home/cec/bymaria/app/Http/Controllers/ClientesController.php on line 144
+[21-Mar-2016 21:45:46 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Comunas' not found in /home/cec/bymaria/app/Http/Controllers/ContactosController.php on line 83
+[22-Mar-2016 19:24:40 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/cec/bymaria/app/Http/Controllers/ContactosController.php on line 162
+[23-Mar-2016 20:59:37 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/cec/bymaria/app/Http/Controllers/DireccionesController.php on line 67
+[23-Mar-2016 20:59:38 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/cec/bymaria/app/Http/Controllers/DireccionesController.php on line 67
+[24-Mar-2016 14:13:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/cec/bymaria/storage/framework/views/3a7043eeec296a48dd025a12214b79ea21dbb2d4.php on line 11
+[24-Mar-2016 19:03:13 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/cec/bymaria/app/Http/Controllers/PedidosController.php on line 28
+[24-Mar-2016 19:27:21 UTC] PHP Parse error:  syntax error, unexpected '$direcciones' (T_VARIABLE) in /home/cec/bymaria/app/Http/Controllers/DireccionesController.php on line 83
+[28-Mar-2016 20:09:08 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/cec/bymaria/app/Http/Controllers/PedidosController.php on line 139
+[28-Mar-2016 20:26:49 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Items' not found in /home/cec/bymaria/app/Http/Controllers/PedidosController.php on line 138
+[29-Mar-2016 15:54:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/cec/bymaria/app/Http/Controllers/UnidadesVentasController.php on line 170
+[30-Mar-2016 15:20:16 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/cec/bymaria/app/Http/Controllers/PresentUniVentaController.php on line 137
+[30-Mar-2016 15:20:33 UTC] PHP Fatal error:  Class 'db' not found in /home/cec/bymaria/app/Http/Controllers/PresentUniVentaController.php on line 138
+[31-Mar-2016 13:47:57 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/cec/bymaria/app/Http/Controllers/UnidadesVentasController.php on line 135
+[31-Mar-2016 13:48:44 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/cec/bymaria/app/Http/Controllers/UnidadesVentasController.php on line 135
+[31-Mar-2016 18:41:01 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/cec/bymaria/app/Http/Controllers/ProductosController.php on line 147
+[31-Mar-2016 18:42:26 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/cec/bymaria/app/Http/Controllers/ProductosController.php on line 147
+[31-Mar-2016 22:04:21 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/cec/bymaria/app/Http/Controllers/ClientesController.php on line 178
+[31-Mar-2016 22:05:21 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/cec/bymaria/app/Http/Controllers/ClientesController.php on line 137
+[01-Apr-2016 14:58:59 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/cec/bymaria/app/Http/Controllers/ClientesController.php on line 109
+[01-Apr-2016 21:48:50 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/cec/bymaria/app/Http/Controllers/HomeController.php on line 22
+[01-Apr-2016 21:49:00 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/cec/bymaria/app/Http/Controllers/HomeController.php on line 24
+[01-Apr-2016 22:22:11 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/cec/bymaria/storage/framework/views/89a9e0f3fc3226a9988c5a621dc6c5e96da9b45f.php on line 198
+[01-Apr-2016 22:22:59 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/cec/bymaria/storage/framework/views/89a9e0f3fc3226a9988c5a621dc6c5e96da9b45f.php on line 197
+[01-Apr-2016 22:23:06 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/cec/bymaria/storage/framework/views/89a9e0f3fc3226a9988c5a621dc6c5e96da9b45f.php on line 197
+[01-Apr-2016 22:23:08 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/cec/bymaria/storage/framework/views/89a9e0f3fc3226a9988c5a621dc6c5e96da9b45f.php on line 197
+[01-Apr-2016 22:24:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cec/bymaria/storage/framework/views/89a9e0f3fc3226a9988c5a621dc6c5e96da9b45f.php on line 341
+[01-Apr-2016 22:26:21 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/cec/bymaria/storage/framework/views/89a9e0f3fc3226a9988c5a621dc6c5e96da9b45f.php on line 199
+[04-Apr-2016 15:03:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/cec/bymaria/app/Http/Controllers/ProductosController.php on line 94
+[04-Apr-2016 15:15:41 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 516
+[04-Apr-2016 15:15:46 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 516
+[04-Apr-2016 15:16:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 516
+[04-Apr-2016 15:17:46 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 516
+[04-Apr-2016 15:20:30 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 516
+[04-Apr-2016 15:20:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 516
+[04-Apr-2016 15:28:50 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 516
+[04-Apr-2016 15:28:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 516
+[04-Apr-2016 17:17:08 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 39
+[04-Apr-2016 17:17:16 UTC] PHP Parse error:  syntax error, unexpected ''select uni_precio as precio' (T_ENCAPSED_AND_WHITESPACE) in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 115
+[04-Apr-2016 17:35:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 124
+[05-Apr-2016 15:59:00 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\all() in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 32
+[05-Apr-2016 18:00:40 UTC] PHP Parse error:  syntax error, unexpected '2016' (T_LNUMBER) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 43
+[05-Apr-2016 18:00:50 UTC] PHP Parse error:  syntax error, unexpected '2016' (T_LNUMBER) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 43
+[05-Apr-2016 18:00:58 UTC] PHP Parse error:  syntax error, unexpected '2016' (T_LNUMBER) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 43
+[05-Apr-2016 18:51:19 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 54
+[05-Apr-2016 18:51:29 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 54
+[05-Apr-2016 18:52:09 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 54
+[05-Apr-2016 18:52:17 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 54
+[05-Apr-2016 18:53:04 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 54
+[05-Apr-2016 18:53:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 54
+[05-Apr-2016 18:53:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 54
+[05-Apr-2016 18:53:58 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 54
+[05-Apr-2016 18:58:04 UTC] PHP Fatal error:  Input string is too long in /home/cec/bymaria/vendor/symfony/debug/ExceptionHandler.php on line 412
+[05-Apr-2016 19:46:06 UTC] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 72
+[05-Apr-2016 20:09:53 UTC] PHP Parse error:  syntax error, unexpected 'dd' (T_STRING) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 69
+[05-Apr-2016 20:18:28 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 60
+[05-Apr-2016 20:44:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 69
+[05-Apr-2016 20:44:16 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 69
+[06-Apr-2016 15:20:51 UTC] PHP Parse error:  syntax error, unexpected '$item' (T_VARIABLE) in /home/cec/bymaria/storage/framework/views/4c7f119bb4c9b4b0dc4b5ade25ac777042bdc67c.php on line 5
+[06-Apr-2016 15:21:02 UTC] PHP Parse error:  syntax error, unexpected '$item' (T_VARIABLE) in /home/cec/bymaria/storage/framework/views/4c7f119bb4c9b4b0dc4b5ade25ac777042bdc67c.php on line 5
+[06-Apr-2016 15:21:04 UTC] PHP Parse error:  syntax error, unexpected '$item' (T_VARIABLE) in /home/cec/bymaria/storage/framework/views/4c7f119bb4c9b4b0dc4b5ade25ac777042bdc67c.php on line 5
+[06-Apr-2016 19:10:35 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 65
+[07-Apr-2016 13:27:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 39
+[07-Apr-2016 14:31:51 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ItemsController::Grafico() in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 35
+[07-Apr-2016 14:31:53 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ItemsController::Grafico() in /home/cec/bymaria/app/Http/Controllers/ItemsController.php on line 35
+[07-Apr-2016 19:20:15 UTC] PHP Parse error:  syntax error, unexpected ''zona_precio'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/cec/bymaria/app/Http/Controllers/DespachosController.php on line 27
+[07-Apr-2016 19:20:36 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/cec/bymaria/app/Http/Controllers/DespachosController.php on line 27
+[08-Apr-2016 19:09:45 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 47
+[08-Apr-2016 19:29:14 UTC] PHP Parse error:  syntax error, unexpected '['idUsua' in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 505
+[08-Apr-2016 19:33:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cec/bymaria/app/Http/Controllers/TiendaController.php on line 681
+[08-Apr-2016 20:26:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cec/bymaria/storage/framework/views/5347e4f151b39eace733653049d4a82b6676131e.php on line 22
+[08-Apr-2016 20:27:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cec/bymaria/storage/framework/views/5347e4f151b39eace733653049d4a82b6676131e.php on line 22
+[11-Apr-2016 07:59:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/bymaria1/public_html/bymaria/index.php on line 52
+[11-Apr-2016 08:06:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/bymaria1/public_html/bymaria/index.php on line 52
+[11-Apr-2016 08:06:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/bymaria1/public_html/bymaria/index.php on line 52
+[11-Apr-2016 08:06:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/bymaria1/public_html/bymaria/index.php on line 52
+[12-Apr-2016 09:19:25 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[12-Apr-2016 16:06:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/bymaria1/bymaria/app/Http/Controllers/PresentacionesController.php on line 87
+[12-Apr-2016 16:07:34 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/bymaria1/bymaria/app/Http/Controllers/PresentacionesController.php on line 107
+[12-Apr-2016 16:08:00 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/bymaria1/bymaria/app/Http/Controllers/PresentacionesController.php on line 60
+[12-Apr-2016 16:08:43 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/bymaria1/bymaria/app/Http/Controllers/PresentacionesController.php on line 107
+[12-Apr-2016 11:27:12 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[12-Apr-2016 18:21:28 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:28 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:28 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:28 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:21:28 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:28 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:28 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:21:39 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:39 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:39 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:39 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:21:39 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:39 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:39 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:21:48 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:48 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:48 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:48 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:21:48 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:48 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:48 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:21:52 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:52 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:52 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:52 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:21:52 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:52 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:52 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:21:55 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:55 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:55 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:55 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:21:55 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:55 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:21:55 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:22:13 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:13 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:13 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:13 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:22:13 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:13 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:13 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:22:14 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:14 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:14 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:14 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:22:14 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:14 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:14 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:22:38 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:38 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:38 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:38 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:22:38 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:38 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:38 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:22:59 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:59 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:59 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:59 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:22:59 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:59 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:22:59 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:23:03 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:03 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:03 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:03 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:23:03 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:03 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:03 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:23:06 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:06 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:06 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:06 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:23:06 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:06 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:06 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:23:13 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:13 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:13 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:13 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:23:13 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:13 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:13 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:23:15 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:15 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:15 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:15 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:23:15 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:15 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:15 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:23:20 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:20 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:20 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:20 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:23:20 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:20 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:20 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:23:22 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:22 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:22 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:22 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:23:22 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:22 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:22 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[12-Apr-2016 18:23:31 UTC] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:31 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:31 UTC] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:31 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[12-Apr-2016 18:23:31 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:31 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Apr-2016 18:23:31 UTC] PHP Fatal error:  Directive 'allow_call_time_pass_reference' is no longer available in PHP in Unknown on line 0
+[13-Apr-2016 09:48:48 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Apr-2016 12:21:30 America/Santiago] PHP Fatal error:  Call to a member function getClientOriginalName() on null in /home/bymaria1/bymaria/app/Http/Controllers/ClientesController.php on line 49
+[13-Apr-2016 12:21:34 America/Santiago] PHP Fatal error:  Call to a member function getClientOriginalName() on null in /home/bymaria1/bymaria/app/Http/Controllers/ClientesController.php on line 49
+[13-Apr-2016 12:24:57 America/Santiago] PHP Fatal error:  Call to a member function getClientOriginalName() on null in /home/bymaria1/bymaria/app/Http/Controllers/ClientesController.php on line 49
+[13-Apr-2016 12:26:21 America/Santiago] PHP Fatal error:  Call to a member function getClientOriginalName() on null in /home/bymaria1/bymaria/app/Http/Controllers/ClientesController.php on line 49
+[13-Apr-2016 12:32:53 America/Santiago] PHP Fatal error:  Call to a member function getClientOriginalName() on null in /home/bymaria1/bymaria/app/Http/Controllers/ClientesController.php on line 50
+[13-Apr-2016 12:33:17 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/bymaria1/bymaria/app/Http/Controllers/ClientesController.php on line 47
+[13-Apr-2016 10:46:52 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Apr-2016 13:57:59 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Apr-2016 14:03:57 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0

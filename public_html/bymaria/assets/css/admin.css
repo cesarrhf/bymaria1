@@ -1,0 +1,78 @@
+.image-upload > input
+{  display: none;}
+.image-upload img
+{  cursor: pointer;}
+
+#cargando{
+  position:absolute; /*El div será ubicado con relación a la pantalla*/
+left:0px; /*A la derecha deje un espacio de 0px*/
+top:10px; /*A la derecha deje un espacio de 0px*/
+right:0px; /*A la izquierda deje un espacio de 0px*/
+bottom:0px; /*Abajo deje un espacio de 0px*/
+height:50px; /*alto del div*/
+z-index:0;
+display: none;
+text-align: center;
+}
+#msj-success{
+  position:absolute; /*El div será ubicado con relación a la pantalla*/
+left:25%; /*A la derecha deje un espacio de 0px*/
+top:10px; /*A la derecha deje un espacio de 0px*/
+right:0px; /*A la izquierda deje un espacio de 0px*/
+bottom:0px; /*Abajo deje un espacio de 0px*/
+height:45px; /*alto del div*/
+z-index:0;
+text-align: center;
+width: 50%
+}
+#msj-fail{
+  position:absolute; /*El div será ubicado con relación a la pantalla*/
+left:25%; /*A la derecha deje un espacio de 0px*/
+top:10px; /*A la derecha deje un espacio de 0px*/
+right:0px; /*A la izquierda deje un espacio de 0px*/
+bottom:0px; /*Abajo deje un espacio de 0px*/
+height:45px; /*alto del div*/
+z-index:0;
+text-align: center;
+width: 50%
+}
+ .foto_principal{
+   height: 250px;
+   width: 250px;
+ }
+
+.foto_min_lista{
+  height: 50px;
+  width: 50px;
+}
+
+textarea { resize: vertical; }
+
+.altoAdmin{
+  height: 100px;
+}
+.row-centered {
+
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+.sinPading{
+  padding-left: 0px;
+}
+
+.sinPadingRight{
+  padding-right: 0px;
+}
+.box-header>.box-tools {
+     position: none;
+     right: 0px; 
+      top: 0px;
+}
